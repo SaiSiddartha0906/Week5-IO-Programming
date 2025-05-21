@@ -12,8 +12,7 @@ Welcome to the repository for Week 5 of our Java learning journey. This week foc
   - [Day 5: Buffered Streams and Serialization](#day-5-buffered-streams-and-serialization)
   - [Day 6: Practice Problems and Exception Handling in I/O](#day-6-practice-problems-and-exception-handling-in-io)
 - [Prerequisites](#prerequisites)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Next Steps](#next-steps)
+
 
 ## 🧭 Overview
 This week was all about learning how Java manages input and output streams. We explored working with files (reading, writing, and checking metadata), used both byte and character streams, and even performed object serialization. These topics are essential for building applications that interact with external systems, logs, or persistent storage.
